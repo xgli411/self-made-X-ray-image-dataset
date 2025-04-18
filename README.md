@@ -1,0 +1,1 @@
+# self-made-X-ray-image-dataset
